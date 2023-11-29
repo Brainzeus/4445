@@ -1,0 +1,1 @@
+./xlarig -o  de.scala.herominers.com:1190 -u SvmV6nk3pYqBSDA6zKgvK5Cubc4o2LvKiQoC1cTXUaChRP4xaDtFqf8NabnqHfeoQEY4jN8qTmiZ9Qy8Tik97gh42JYr5vUXV -p erss -a panthera -k 
